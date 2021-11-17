@@ -1,0 +1,4 @@
+include ':cusplugin'
+include ':plugin'
+include ':app'
+rootProject.name = "WePlugin"
